@@ -8,3 +8,4 @@ fifth line
 sixth line
 branch 1-1
 branch 2-1
+branch 1=2
